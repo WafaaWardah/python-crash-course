@@ -1,5 +1,5 @@
 # Python Crash Course
-A collection of simple python scripts covering Python programming concepts. 
+A collection of simple python scripts covering Python programming concepts. You can save the entire collection and then go through and execute the scripts individually for better understanding of each concept.
 
 **Content**
 1. Variables and data types (data-types.py)
