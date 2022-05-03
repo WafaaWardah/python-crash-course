@@ -1,4 +1,4 @@
-# This is a simple Arithmetic quiz with score-keeping
+# This is a simple Arithmetic quiz with score-keeping and continuous looping until user wants to exit.
 # Python concepts: variables, data types, user input, if...else decision, loop, random
 
 import random
