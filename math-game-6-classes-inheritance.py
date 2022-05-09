@@ -9,9 +9,9 @@ game object
             --> player object
             --> game logic loop
                                 --> question base/parent class
-                                    --> QAdd child class
-                                    --> QSubtract child class
-                                    --> QMultiply child class
+                                    --> QAdd child object
+                                    --> QSubtract child object
+                                    --> QMultiply child object
 """
 
 import random
