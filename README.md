@@ -7,6 +7,7 @@ A collection of simple python scripts covering Python programming concepts. You 
 4. Decisions with if...else: Score-keeping in arithmetic game (math-game-2-score.py)
 6. Looped arithmentic game (math-game-3-loop.py)
 7. Functions (math-game-4-functions.py)
+8. Classes - simple introduction (math-game-5-classes.py)
 
 ## Setting Up
 Edited 30 April 2022: My current personal combination is Python 3.10.4 on my Windows 10 laptop. Install the latest Python version from [https://www.python.org/downloads/release/python-3104/] and add it to path. Tip: tick the ‘add to path’ box when installing. Then verify in cmd with the python command.
