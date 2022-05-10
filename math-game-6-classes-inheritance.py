@@ -48,7 +48,7 @@ class Game:
 
 class Player:
     """
-    Player object has a name and score
+    Player object has a name
     """
     def __init__(self):
         self.name = input("Enter name: ")
